@@ -1,2 +1,2 @@
 # SouthWest
-A school website built using HTML, CSS, Bootstrap
+School website built with HTML, CSS, Bootstrap and JavaScript files for creating responsive web pages.
